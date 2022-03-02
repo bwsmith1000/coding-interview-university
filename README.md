@@ -585,11 +585,8 @@ But don't forget to do coding problems from above while you learn!
     - [Computational Complexity: Section 1](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-1/)
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-2/)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
+- [ ] [Cracking the Coding Interview - Big O Chapter]
 
-Well, that's about enough of that. 
-
-When you go through "Cracking the Coding Interview", there is a chapter on this, and at the end there is a quiz to see 
-if you can identify the runtime complexity of different algorithms. It's a super review and test.
 
 ## Data Structures
 
